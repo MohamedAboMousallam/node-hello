@@ -30,7 +30,7 @@ Before implementing the solution, I made a few assumptions to guide my submissio
   - Secrets Manager or SSM
 - Docker & Git installed
 - New Relic account + Ingest license key (EU region)
-- If all is set and you have the lincese key from new-relic follow the steps to set up the project
+- If all is set and you have the lincese key from new-relic follow the steps to setup the project
 
 ### 1. Clone the repo
 
@@ -62,6 +62,8 @@ newrelic_license_key = "your_new_relic_ingest_key"
 terraform init
 terraform apply
 ```
+
+▶️ [Watch Demo on Loom](https://www.loom.com/share/b037fe2e8bb8434fadc65a1bd9d93e98?sid=9a5efd03-f240-4f5f-8367-6ae9ae1b688c)
 
 ## Infrastructure Design (via Terraform)
 
