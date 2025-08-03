@@ -7,5 +7,4 @@ node_modules
 .prettierrc
 eslint.config.mjs
 README.md
-package-lock.json
 npm-debug.log*
