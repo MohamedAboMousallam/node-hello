@@ -30,7 +30,7 @@ Before implementing the solution, I made a few assumptions to guide my submissio
   - Secrets Manager or SSM
 - Docker & Git installed
 - New Relic account + Ingest license key (EU region)
-- If all is set and you have the lincese key from new-relic follow the steps to setup the project
+- If all is set and you have the lincese key from new-relic follow the steps to set up the project
 
 ### 1. Clone the repo
 
