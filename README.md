@@ -1,3 +1,5 @@
+[![CI](https://github.com/MohamedAboMousallam/node-hello/actions/workflows/ci.yml/badge.svg)](https://github.com/MohamedAboMousallam/node-hello/actions/workflows/ci.yml)
+
 ## Assumptions
 
 Before implementing the solution, I made a few assumptions to guide my submission in alignment with best practices:
