@@ -2,6 +2,7 @@ node_modules
 .git
 .github
 .vscode
+infra/
 .env
 .gitignore
 .prettierrc
